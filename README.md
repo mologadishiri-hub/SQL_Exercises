@@ -9,10 +9,14 @@ This repository documents my practical development in SQL through structured exe
 My focus is on developing strong querying skills, understanding database operations and applying SQL concepts to practical data analysis problems.
 
 ---
-
 ## 🛠️ Tools and Technologies
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge\&logo=github\&logoColor=white)" /> \</p>
+| Tool | Description |
+|---|---|
+| 🐬 **MySQL** | Database querying and SQL practice |
+| 🧱 **Databricks** | SQL querying and data analysis |
+| 🐙 **GitHub** | Version control and project documentation |
+| 💻 **GitHub Desktop** | Repository management and commit tracking |
 
 ---
 
