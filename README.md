@@ -1,73 +1,78 @@
 # SQL Exercises and Practice
 
-## Overview
+### Building Strong Foundations in SQL and Data Analytics
 
-This repository documents my practical SQL learning and development through structured exercises and assignments. It covers fundamental SQL concepts and progressively introduces more advanced querying techniques used to retrieve, filter, manipulate, and analyse data.
+Welcome to my SQL learning repository.
 
-The exercises provide hands-on practice in writing SQL queries, understanding database operations, handling missing values, and working with date functions.
+This repository documents my practical development in SQL through structured exercises, assignments and hands-on query practice. It covers fundamental SQL concepts and progressively introduces more advanced techniques used to retrieve, filter, manipulate and analyse data.
 
-My aim is to strengthen my SQL skills and apply them to practical data analysis and business-related problems.
+My focus is on developing strong querying skills, understanding database operations and applying SQL concepts to practical data analysis problems.
 
-## SQL Topics Covered
-
-### SQL Fundamentals
-- SELECT statements
-- DISTINCT
-- WHERE
-- ORDER BY
-- LIMIT
-- AND / OR
-- IN
-- BETWEEN
-- LIKE
-- SQL Wildcards
-
-### SQL Aggregates and Operators
-- Aggregate functions
-- COUNT
-- SUM
-- AVG
-- MIN / MAX
-- Arithmetic operators
-- Logical operators
-
-### NULL Functions
-- IFNULL()
-- ISNULL()
-- COALESCE()
-- Handling missing values
-- Replacing NULL values
-- Counting NULL values
-
-### Date Functions
-- Working with dates
-- Extracting date components
-- Date calculations
-- Date filtering
+---
 
 ## Tools and Technologies
 
-- MySQL
-- Databricks SQL
-- GitHub
-- GitHub Desktop
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-## Repository Structure
+---
 
-| Folder | Description |
+## SQL Concepts and Skills
+
+| Category | Topics Covered |
 |---|---|
-| Exercise 1 - SQL Fundamentals | Basic SQL queries, data retrieval, sorting and filtering. |
-| Exercise 2 | SQL aggregate functions and operators. |
-| Exercise 3 | SQL practice exercises and assignments. |
-| Exercise 4 | SQL practice exercises and assignments. |
-| Exercise 5 - NULL Functions | Handling missing values using SQL NULL functions. |
-| Exercise 6 - DATE Functions | Working with dates and SQL date functions. |
+| SQL Fundamentals | SELECT, DISTINCT, WHERE |
+| Filtering | AND, OR, IN, BETWEEN, LIKE |
+| Sorting and Limiting | ORDER BY, LIMIT |
+| Aggregation | COUNT, SUM, AVG, MIN, MAX |
+| NULL Handling | IFNULL(), ISNULL(), COALESCE() |
+| Date Operations | SQL Date Functions |
+| Data Retrieval | Selecting and filtering records |
+| Data Manipulation | Working with values and expressions |
+
+---
+
+## Repository Contents
+
+| Exercise | Description |
+|---|---|
+| Exercise 1 | SQL Fundamentals |
+| Exercise 2 | SQL Aggregates and Operators |
+| Exercise 3 | SQL Practice Exercises |
+| Exercise 4 | SQL Practice Exercises |
+| Exercise 5 | Advanced SQL: NULL Functions |
+| Exercise 6 | SQL Date Functions |
+
+---
 
 ## Learning Approach
 
-Each exercise focuses on developing practical SQL skills through query writing, problem-solving and understanding query results.
-The repository is continuously updated as I progress through my SQL training and explore additional concepts.
+Each exercise provides an opportunity to develop practical SQL skills through:
 
-## About This Repository
+- Writing and executing SQL queries.
+- Applying filtering and sorting techniques.
+- Working with aggregate functions and operators.
+- Handling NULL values and missing information.
+- Understanding query results and expected outputs.
+- Improving logical thinking and problem-solving.
 
-This repository forms part of my ongoing development in Data Analytics, with a focus on building a strong foundation in SQL and developing the technical skills required to work with real-world datasets.
+The repository is continuously updated as I progress through my SQL training and explore additional database concepts.
+
+---
+
+## Professional Development
+
+This repository forms part of my broader Data Analytics learning journey.
+
+My objective is to build a strong technical foundation in SQL and apply these skills to real-world datasets, business questions and analytical projects.
+
+I am particularly interested in using data to identify patterns, understand operational performance and support informed business decisions.
+
+---
+
+**Status:** Actively learning and developing  
+**Focus:** SQL | Data Analytics | Business Intelligence work with real-world datasets.
