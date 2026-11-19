@@ -41,8 +41,8 @@ My focus is on developing strong querying skills, understanding database operati
 | ---------- | ---------------------------- |
 | Exercise 1 | SQL Fundamentals             |
 | Exercise 2 | SQL Aggregates and Operators |
-| Exercise 3 | SQL Practice Exercises       |
-| Exercise 4 | SQL Practice Exercises       |
+| Exercise 3 | SQL JOINs And CASE Statements|
+| Exercise 4 | SQL UNION And UNION ALL      |
 | Exercise 5 | Advanced SQL: NULL Functions |
 | Exercise 6 | SQL Date Functions           |
 
